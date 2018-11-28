@@ -1,0 +1,23 @@
+/* ** Feel free to add whatever class attributes you wish to the HTML in order to complete the following: **
+
+
+Set the lis containing the bear images to display: inline-block; (while leaving the lis in the nav as is).
+
+*/
+p {
+  color: orange;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: orange;
+}
+h1 {
+  font-size: 75px;
+}
+
+.bears > li {
+  display: inline-block;
+}
